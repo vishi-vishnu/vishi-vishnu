@@ -51,7 +51,7 @@ status: open_to_work
 
 ## Tech stack
 
-| | |
+| Area | Tools |
 | --- | --- |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,bash,nginx,vercel" alt="Docker, Kubernetes, Terraform, AWS, GitHub Actions, Linux, Bash, Nginx, Vercel" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,angular" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, Angular" /> |
