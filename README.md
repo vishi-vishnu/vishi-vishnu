@@ -2,16 +2,16 @@
 
 <img src="assets/banner.png" alt="Vishnu Kumar G K, DevOps and Full Stack Engineer" width="100%" />
 
-<a href="PORTFOLIO_URL">
+<a href="https://vishnukumar-gk.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=DevOps+Engineer+%C2%B7+Full+Stack+Engineer;Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Linux;React+%E2%80%A2+TypeScript+%E2%80%A2+Django+REST+Framework;Shipping+code+from+commit+to+production" alt="DevOps Engineer, Full Stack Engineer" />
 </a>
 
 <br/>
 
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://vishnukumar-gk.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vishnu081/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vishi08vishnu@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="PORTFOLIO_URL/Vishnu_Kumar_GK_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-34D399?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="https://vishnukumar-gk.vercel.app/Vishnu_Kumar_GK_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-34D399?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 
 </div>
 
@@ -79,7 +79,7 @@ Final-year project platform for students, guides and coordinators. Full CI/CD: l
 My DevOps-themed portfolio with an interactive terminal. Built like a production app: typed, tested, containerised with a multi-stage Dockerfile and shipped through GitHub Actions to Vercel.
 
 `React` `TypeScript` `Vite` `Docker` `Nginx` `GitHub Actions`
-<br/>[**Live site**](PORTFOLIO_URL) · [Code](https://github.com/vishi-vishnu/portfolio)
+<br/>[**Live site**](https://vishnukumar-gk.vercel.app) · [Code](https://github.com/vishi-vishnu/portfolio)
 </td>
 </tr>
 <tr>
@@ -153,6 +153,6 @@ Fully responsive travel landing page with GSAP ScrollTrigger animations and a mo
 
 <div align="center">
 
-**Open to DevOps, Cloud and Full Stack roles.** Let's talk: [vishi08vishnu@gmail.com](mailto:vishi08vishnu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vishnu081/) · [Portfolio](PORTFOLIO_URL)
+**Open to DevOps, Cloud and Full Stack roles.** Let's talk: [vishi08vishnu@gmail.com](mailto:vishi08vishnu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vishnu081/) · [Portfolio](https://vishnukumar-gk.vercel.app)
 
 </div>
